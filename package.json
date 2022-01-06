@@ -8,10 +8,10 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@nomiclabs/hardhat-truffle5": "^2.0.1",
-    "@nomiclabs/hardhat-web3": "^2.0.0",
-    "dotenv": "^10.0.0",
-    "hardhat": "^2.6.4"
+    "@nomiclabs/hardhat-truffle5": "2.0.3",
+    "@nomiclabs/hardhat-web3": "2.0.0",
+    "dotenv": "10.0.0",
+    "hardhat": "2.8.1"
   },
   "scripts": {
     "test": "hardhat test"
